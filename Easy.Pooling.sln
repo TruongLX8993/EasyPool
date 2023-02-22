@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Pooling", "Easy.Pooling\Easy.Pooling.csproj", "{17055F10-1937-451C-8C95-93EC432E87F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Pooling.Test", "Easy.Pooling.Test\Easy.Pooling.Test.csproj", "{1F187808-3BEF-45A2-84FC-1BA81D57BC08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17055F10-1937-451C-8C95-93EC432E87F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17055F10-1937-451C-8C95-93EC432E87F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17055F10-1937-451C-8C95-93EC432E87F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17055F10-1937-451C-8C95-93EC432E87F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F187808-3BEF-45A2-84FC-1BA81D57BC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F187808-3BEF-45A2-84FC-1BA81D57BC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F187808-3BEF-45A2-84FC-1BA81D57BC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F187808-3BEF-45A2-84FC-1BA81D57BC08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
